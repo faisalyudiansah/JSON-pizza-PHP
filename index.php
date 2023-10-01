@@ -6,7 +6,6 @@ $menu = $menu["menu"];
 
 // var_dump($menu[0]["nama"]);
 // echo $menu[0]["nama"]
-
 ?>
 
 <!doctype html>
