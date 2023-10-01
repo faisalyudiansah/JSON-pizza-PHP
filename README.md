@@ -7,11 +7,11 @@ Simple web - Pizza menu with simple PHP
 <br>
 
 ## PC Version
-![pizza-json](https://github.com/faisalyudiansah/JSON-pizza-PHP/assets/142356615/013cd2b7-b64b-489d-9bf6-a9e78b2e6ace)
+![pizza-json](https://github.com/faisalyudiansah/JSON-pizza-PHP/assets/142356615/7de842a7-683a-4f1a-8cb0-7e232431fbf1)
 <br>
 <br>
 ## Phone Version
-![pizza-json-phone](https://github.com/faisalyudiansah/JSON-pizza-PHP/assets/142356615/f15d8c22-780d-41be-81ec-d68148e78ded)
+![pizza-json-phone](https://github.com/faisalyudiansah/JSON-pizza-PHP/assets/142356615/6cace46f-f60e-4f0f-809a-c777363f6bf7)
 <br>
 <br>
 @Muhammad Faisal Yudiansah
