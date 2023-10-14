@@ -1,5 +1,5 @@
 # JSON-pizza-PHP
-Simple web - Pizza menu with simple PHP
+Simple web - Pizza menu with simple PHP and Bootstrap
 
 <li>PHP</li>
 <li>pizza.json</li>
